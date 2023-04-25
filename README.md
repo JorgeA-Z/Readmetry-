@@ -1,10 +1,7 @@
 # Ebook-reader
+Aplicación promocional que servirá como incapié para la segunda parte del proyecto. En este primer proyecto individual se generarón los aspectos artisticos que definirán a la aplicación, además de desarrollar el lector Epub web para la lectura de los libros.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+#Instrucciones de instalación
 
 ## Customize configuration
 
